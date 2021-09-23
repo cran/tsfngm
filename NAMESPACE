@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "nls")
+importFrom("stats", "nls.control")
+importFrom("stats", "coef")
+
